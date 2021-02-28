@@ -1,3 +1,13 @@
+#Fazer um programa (na linguagem de sua preferência) para gerar números
+#pseudo-aleatórios utilizando o método congruente linear. Escolha parâmetros a e M suficientemente
+#grandes para que os números gerados sejam, de fato, pseudo-aleatórios. Gerar 100
+#números entre [0, 1] (dividir por M e pegar apenas a primeira casa decimal, para que os valores
+#sorteados sejam discretizados em intervalos de 0.1 em 0.1, isto é, [0:0.1; 0.1:0.2; 0.2:0.3; ...
+#0.9:1]). Gerar gráfco da frequencia relativa dos intervalos.
+#Usando o gerador nativo da linguagem escolhida por você, repita o processo para gerar
+#1000 números. HGere o gráfico e compare os resultados.
+
+
 # -*- coding: utf-8 -*-
 """Atividade5_AndreAraujo.ipynb
 
